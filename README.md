@@ -1,1 +1,1 @@
-# Space_game
+ classic shoot 'em up with template Singleton
